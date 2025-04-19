@@ -67,13 +67,13 @@ PM2.5 exposure was a statistically significant predictor of cardiovascular morta
 ### Role of Socioeconomic Status
 SES emerged as a risk multiplier showing lower-income locations with higher uninsured populations and lower educational attainment had elevated CVD mortality rates. This supports the concept of multifactorial cumulative disadvantage—where multiple vulnerabilities intersect to worsen adverse health outcomes.
 
+[image](researchpaperdata2_0_0/output_128_0.png)
+
 ### Hypertension and Cardiovascular Mortality 
 While our visualizations suggest a potentially weak direct influence of overall hypertension mortality rates on cardiovascular mortality rates—an expected finding given the multifactorial nature of CMR, which can be linked to various factors sometimes interrelated with hypertension—our regression model revealed a statistically significant positive relationship between hypertension-related death rates and cardiovascular mortality rates. However, there were implications that other significant conditions or factors, such as PM2.5 levels and broader socioeconomic determinants, likely exert substantial influence and warrant further investigation.
 
 
 It is important to note that these are ecological correlations. While they can suggest potential relationships at the population level, they do not establish individual-level causation. Further individual-level studies would be needed to confirm these associations and understand the underlying mechanisms.
-
-[image](researchpaperdata2_0_0/output_128_0.png)
 
 [image](researchpaperdata2_0_0/output_152_0.png)
 
