@@ -51,3 +51,10 @@ Extract the top 50 Afrobeats songs from Billboard’s webpage.
 Clean and structure the extracted data for analysis.
 Perform exploratory data analysis and basic visualizations.
 Create a summary of findings in Markdown and an optional CSV for future analysis.
+
+## Methods
+
+- Web Extraction: Used requests and BeautifulSoup to scrape song rankings, artists, titles, release years, and descriptions from Billboard’s list.
+- Data Cleaning: Employed pandas and regex to parse and clean the extracted text, remove irrelevant content, and convert data types.
+- Analysis & Visualization: Conducted temporal and artist-level analyses using matplotlib and seaborn to visualize trends in song releases and artist representation. [link here](https://github.com/Bayowar/Bayowar/blob/ced477c35139b402c116e5dd83d4a7bf63aeab1c/AfrobeatsTop50Decade/AfrobeatsTop50Decade.md).
+
