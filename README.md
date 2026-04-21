@@ -1,6 +1,6 @@
 # Bayowa Onabajo
 ## Contact
-[Email](bayowa.onabajo@bison.howard.edu, bayoonabajo1@yahoo.com) | [LinkedIn](https://www.linkedin.com/in/bayowa-o-onabajo-mbchb-3b7993170/) | [Github](https://Bayowar.github.io/)
+[Email](bayowa.onabajo@bison.howard.edu, bayoonabajo1@yahoo.com) | [LinkedIn](https://www.linkedin.com/in/bayowa-o-onabajo-mbchb-3b7993170/) | [Github](https://github.com/Bayowar)
 
 CV: [CV Bayowa](2025_DigitalResume.html)
 
